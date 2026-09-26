@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SharkFnBoxPvP.aternos.me:35329",
+    "port": 35329,
     "version": "",
     "try-creative": false
   },
